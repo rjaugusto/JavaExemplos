@@ -1,0 +1,10 @@
+    * 3 Implementações
+    - java.util.HashSet (Mais usada)
+    - java.util.TreeSet
+    - java.util.LinkedHashSet
+
+    * Por padrão , não garante ordem
+    * Não permite itens repetidos
+    * Permite adição e remoção normalmente.
+        Não possui busca por item e atualização.Para leitura, apenas navegação
+    * Não permite mudança de ordenação
