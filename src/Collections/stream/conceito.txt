@@ -1,0 +1,10 @@
+* Manipulação de coleções com paradgima funcional de forma paralela
+* Imutável - Não altera a coleção de origem, sempre cria uma nova coleção
+
+Principais funcionalidades
+* Mapping - Retorna uma coleção com os mesmo tamanho da origem com os elementos alterados
+*Filtering - Retorna uma coleção igual ou menos que a coleção de origem, com elementos intactos
+*ForEach - Executa uma determinada lógica para cada elemento, retornando nada;
+*Peek - Executa uma determianda lógica para cada elemento, retornando a propria coleção
+*Counting - Retorna um inteiro que representa a contagem de elementos
+*Grouping - Retorna uma coleção agrupada de acordo com a regra definida.

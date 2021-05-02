@@ -1,0 +1,14 @@
+* 3 Implementações
+    java.util.HashMap
+    java.util.TreeMap
+    java.util.HashTable
+
+    *Entrada de Chave e valor
+
+    *Permite Valores repetidos, mas não permite repetição de chave
+
+    *Permite adição, busca por chave ou valor, atualização, remoção e navegação
+
+    *Pode ser ordenado
+
+    *Não estende de Java.util.Collection

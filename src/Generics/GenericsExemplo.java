@@ -1,8 +1,10 @@
 package Generics;
 
-public class GenericsExemplo {
+public class GenericsExemplo implements ClasseComTipoGenerico<String> {
 
-    public static void main(String[] args) {
-        System.out.println("Teste");
+
+    @Override
+    public String get(int index) {
+        return null;
     }
 }

@@ -1,0 +1,23 @@
+* No paradigma funcional, damos uma regra uma declaração de como queremos que o programa se comporte
+* Lazy Valuation
+
+* Composição de funções: é criar uma nova função através da composição de outras.
+        Exemplo: criar uma função que vai filtrar um array, filtrando somente os números pares e multiplicando por 2
+
+* Funções Puras:è chamada de pura quando invocada mais de uma vez produz exatamente o mesmo resultado
+
+* Imutabilidade: Significa que uma vez que uma variável que recebeu um valor, vai possuir esse valor para sempre, ou quando criamos um objeto ele não pode ser modificado
+
+*Lambdas
+
+    Os Lambdas obedecem o conceito do paradigma funciona,
+     com eles podemos facilitar a legibilidade do nosso código,
+      além disse com a nova API Funcional do Java podemos ter uma alta produtividade para lidar com objetos;
+    - Para criar uma Lamba precisamos ter uma Interface Funcional atrelada a ela
+
+* Interface Funcional
+    - São Interfaces que possuem apenas um método abstrato
+    Ex: public interface Funcao{
+            String gerar(String valor)
+    }
+
